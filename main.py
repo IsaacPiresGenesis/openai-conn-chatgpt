@@ -3,10 +3,6 @@ from websockets.asyncio.client import connect
 from websockets.exceptions import ConnectionClosedOK
 import base64
 import json
-import uuid
-import sounddevice as sd
-import numpy as np
-import queue
 import wave
 import dotenv
 import os

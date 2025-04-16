@@ -1,0 +1,10 @@
+asyncio
+websockets
+base64
+json
+wave
+dotenv
+os
+websocket-client
+struct
+soundfile
